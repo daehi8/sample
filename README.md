@@ -1,1 +1,1 @@
-# sample
+# CSS / JS 샘플
